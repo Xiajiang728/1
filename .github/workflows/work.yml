@@ -1,4 +1,4 @@
-name: 'run1'
+name: 'run'
 
 on:
   schedule:
